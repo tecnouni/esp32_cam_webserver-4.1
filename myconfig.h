@@ -24,9 +24,8 @@
 const char* password = "wTUuyH6G";
  */
 
-//struct station stationList[] = {{"my_ssid","my_password", true}};
-//struct station stationList[] = {{"Cableworld_165938 2.4G","wTUuyH6G", true}};
-struct station stationList[] = {{"vodafoneA048","YJZ3MZN5YTEJNK", true}};
+struct station stationList[] = {{"my_ssid","my_password", true}};
+
 
 /*
  * You can extend the stationList[] above with additional SSID+Password pairs
